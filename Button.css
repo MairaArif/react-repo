@@ -1,0 +1,12 @@
+  
+  .lets-talk-button {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .lets-talk-button .rounded-circle {
+    background-color: blue;
+    color: white !important;
+    border: none;
+  }
